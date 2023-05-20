@@ -1,0 +1,9 @@
+* mfiano-utils
+
+A personal utilities library.
+
+|---------+------------------------------------------------|
+| source  | git:https://github.com/mfiano/mfiano-utils.git |
+| commit  | b95d933                                        |
+| systems | mfiano-utils                                   |
+|---------+------------------------------------------------|
